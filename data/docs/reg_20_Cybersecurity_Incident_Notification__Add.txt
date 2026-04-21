@@ -1,0 +1,16 @@
+Cybersecurity Incident Notification (Addendum)
+
+PURPOSE
+This document communicates supervisory expectations for cybersecurity incident notification (addendum). Institutions are expected to adopt and maintain sound risk management practices consistent with the principles articulated herein.
+
+SCOPE
+All federally regulated institutions engaged in activities within the subject area. Branches, subsidiaries, and affiliated entities are expected to operate under an enterprise-wide framework.
+
+EXPECTATIONS
+1. Governance and Oversight — the board and senior management should ensure clear accountability, periodic reporting, and independent challenge.
+2. Risk Assessment — institutions should perform documented assessments at least annually, with ad hoc refreshes for material changes.
+3. Controls and Monitoring — risk-tiered controls, commensurate with the complexity and materiality of activities, should be implemented and periodically tested.
+4. Reporting — examiners expect timely escalation of material incidents, control breakdowns, and emerging risk themes.
+
+EXAMINATION APPROACH
+Examiners will evaluate the design and operating effectiveness of programs described above. Supporting documentation, evidence of independent review, and remediation tracking will be reviewed. Institutions should be prepared to demonstrate how identified weaknesses have been addressed.
